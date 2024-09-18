@@ -1,12 +1,5 @@
-/* Name: Kayla Dawkins
-Assignment: 3 
-Due Date: 3/16/2023
-Last Modified: 3/16/2023
-compiler flags used, is any: <gcc -std=c99> 
-
-About this project: <the program begans with a default triangle that is a size 5 than the user has to choose if they would like to shrink, grow, draw a new traingle or quit the program altogether> 
-
-Known Issues: <N/A> 
+/* 
+compiler flags used, is any: <gcc -std=c99>  
 */
 
 #include <stdio.h> 
